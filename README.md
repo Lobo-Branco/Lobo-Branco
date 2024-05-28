@@ -1,4 +1,4 @@
-# Lobo-Branco
+# Bruno Queiros
 
 # Olá, eu sou o Bruno(Lobo)! 🐺
 
