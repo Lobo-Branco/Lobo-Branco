@@ -14,8 +14,8 @@
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 
 - 🛠️ Ferramentas:
-- ![VSCode](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visual-studio-code)
-- ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![VSCode](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visual-studio-code)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
 ## Projetos Destacados
 - [Projeto Calculadora](https://github.com/Lobo-Branco/ProjetoCalculadora) - Pequeno projetinho desenvolvido para praticar um pouco de python.
