@@ -4,8 +4,8 @@
 
 ## Sobre Mim
 - 📍 Moro em Jundiaí
-- 🎓 Estudando Análise e Desenvolvimento de Sistemas
-- 🎸 Hobbies: Tocar violão, assistir filmes, jogar  PS4
+- 🎓 Formado em Análise e Desenvolvimento de Sistemas
+- 🎸 Hobbies: Tocar violão, assistir filmes, Games
 
 ## Minhas Habilidades
 - 💻 Linguagens:
